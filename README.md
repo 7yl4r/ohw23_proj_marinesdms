@@ -21,9 +21,9 @@ Team Members
 
 -Laura Tsang
 
--Tylar Murray, Github: 7yl4r
+-Tylar Murray, Github: @7yl4r
 
--Catherine Courtier, Github: cacourtier
+-Catherine Courtier, Github: @cacourtier
 
 # Day 2 / Day 3 check in
 
